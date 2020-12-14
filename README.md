@@ -1,5 +1,6 @@
 # Inspur-internship-certificate
-Certificate is the file.
+Certificate is the jpeg file.
+
 What I have done?
 1. Participated in the detailed design, coding, testing and documentation of relevant modules of cloud storage products (based on Ceph)
 2. Participate in the deployment, operation and maintenance of Petabyte Ceph cluster, fault location and solution
